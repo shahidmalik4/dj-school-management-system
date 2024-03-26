@@ -42,5 +42,7 @@ Through developing this project, I gained valuable experience in full-stack web 
    ```bash
    python manage.py runserver
    ```
-
+## Usage
+- Login as admin, staff, or student to access respective functionalities.
+- Explore the dashboard, manage profiles, take attendance, apply for leave, and view performance metrics.
 
