@@ -30,3 +30,7 @@ Through developing this project, I gained valuable experience in full-stack web 
    ```bash
    git clone https://github.com/your-username/shahidmalik4/dj-school-management-system.git
    ```
+2. Install dependencies:
+   ```python
+   pip install -r requirements.txt
+   ```
